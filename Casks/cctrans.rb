@@ -14,7 +14,7 @@ cask "cctrans" do
 
   # The app ships Sparkle and updates itself; brew upgrade is optional.
   auto_updates true
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "CCTrans.app"
 
