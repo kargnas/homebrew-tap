@@ -1,6 +1,6 @@
 cask "mac-optimizing-looper" do
-  version "0.1.2"
-  sha256 "7c52f689b99fdb7614a84716b63dbaad97f96ac1be91bbc21e32ec41fa594d2a"
+  version "0.1.3"
+  sha256 "e076e364928dddb88798f058eae7b69f930065c972e33b07c273d34c1852c53e"
 
   url "https://github.com/kargnas/mac-optimizing-looper/releases/download/v#{version}/MacOptimizingLooper-v#{version}.dmg"
   name "Mac Optimizing Looper"
