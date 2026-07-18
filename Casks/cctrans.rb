@@ -1,6 +1,6 @@
 cask "cctrans" do
-  version "0.5.8"
-  sha256 "b60fad52e4af6d1414506e9b4b3d5bc6c6f4c6bb8f0e11141307f42db629a11f"
+  version "0.5.9"
+  sha256 "42107784f2909fd2bd0210339d7d3b2a86f70b0fc51e6e25db7e479bb11b2e8e"
 
   url "https://github.com/kargnas/cctrans/releases/download/v#{version}/CCTrans-v#{version}.dmg"
   name "CCTrans"
